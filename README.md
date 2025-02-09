@@ -1,6 +1,6 @@
 ## Hi there :battery::smiley:
 
-Eu sou o Ygor Mantovani, trabalho atualmete na area de automacão como montador, e estou estudanto para me tornar um programador fullstack, criei projetos de:
+Eu sou o Ygor Mantovani, trabalho atualmete na area de automacão como montador, e estou estudando para me tornar um programador fullstack, criei projetos de:
 <br>
 <br>
 
